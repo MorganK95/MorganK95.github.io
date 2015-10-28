@@ -29,7 +29,7 @@ body {
 
 .nav ul {
     margin: 0;
-    padding: 0;
+    padding-left: 75%;
 }   
 
 .nav ul li {
@@ -51,6 +51,14 @@ body {
 
 #lastA {
     border-right: none;
+}
+
+h4 {
+    position: absolute;
+    font-family: 'Roboto Mono';
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-top: 7px;
 }
 
 
