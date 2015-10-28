@@ -1,0 +1,59 @@
+html { 
+  background: url(http://s12.postimg.org/k4f5uwsq5/05120030.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 75px;
+}   
+    
+
+.headerContent {
+    height: 100%;
+    margin: 0;
+}
+
+.nav {
+    height:40px;
+    background: #ffffff;
+    margin: 0;
+    height: 100%
+    
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+}   
+
+.nav ul li {
+    list-style: none;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    float: left;
+    padding-left: 15px;
+    padding-right: 10px;
+    margin-top: 25px;
+    border-right: 1px solid #000000;
+    font-family: 'Roboto Mono';
+    text-transform: uppercase;
+    
+}
+
+#lastA {
+    border-right: none;
+}
+
+
+ 
+    
+
+
