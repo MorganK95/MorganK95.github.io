@@ -53,12 +53,12 @@ body {
     border-right: none;
 }
 
-h4 {
+p {
     position: absolute;
     font-family: 'Roboto Mono';
     text-transform: uppercase;
     padding-left: 15px;
-    padding-top: 7px;
+    margin-top: 25px;
 }
 
 
